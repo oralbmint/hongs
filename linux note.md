@@ -14,3 +14,4 @@ x: extract tar type
 z: use zg type
 f: file name
 v: view process
+
