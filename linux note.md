@@ -18,3 +18,12 @@ z: use zg type
 f: file name
 
 v: view process
+
+## time setting
+
+```
+sudo date -s "Jul 5 08:10"
+
+sudo date -s "APR 28 16:10" 
+```
+
