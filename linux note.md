@@ -1,5 +1,6 @@
 # linux 
 
+## tar 
 
 ```
 tar czfv filename.tar.gz folder1 folder2
