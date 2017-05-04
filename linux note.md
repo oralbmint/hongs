@@ -27,3 +27,4 @@ sudo date -s "Jul 5 08:10"
 sudo date -s "APR 28 16:10" 
 ```
 
+`jan` `feb` `mar` `apr` `may` `jun` `jul` `aug` `sep` `oct` `nov` `dec`
